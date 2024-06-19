@@ -3,7 +3,7 @@ echo "mi primer php";
 echo "<br>";
 echo "mis datos <br>";
 $nombre = "Oscar";
-$edad=23;
+$edad=20;
 $estatura=1.65;
 echo "soy... " .$nombre. " y tengo " .$edad. " años, y mido " .$estatura. " metros ";
 echo "<br>";
